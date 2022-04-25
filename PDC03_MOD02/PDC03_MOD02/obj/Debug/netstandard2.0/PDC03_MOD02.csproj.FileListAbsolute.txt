@@ -14,3 +14,4 @@ C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\nets
 C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\PDC03_MOD02.dll
 C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\ref\PDC03_MOD02.dll
 C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\PDC03_MOD02.pdb
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\activity02.xaml.g.cs

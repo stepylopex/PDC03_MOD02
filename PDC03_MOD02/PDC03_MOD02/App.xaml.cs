@@ -10,7 +10,7 @@ namespace PDC03_MOD02
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new activity1());
+            MainPage = new NavigationPage(new activity02());
         }
 
         protected override void OnStart()
