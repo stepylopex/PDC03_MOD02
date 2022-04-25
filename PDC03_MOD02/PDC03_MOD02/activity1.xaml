@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC03_MOD02.activity1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Hello, this is Module 02 - PDC 03!"  
+                      VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                IsVisible="True"
+                FontSize="Large" 
+                FontAttributes="Bold"
+                TextColor="Blue" />
+            <Button Text="Back" Clicked="BackPage" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

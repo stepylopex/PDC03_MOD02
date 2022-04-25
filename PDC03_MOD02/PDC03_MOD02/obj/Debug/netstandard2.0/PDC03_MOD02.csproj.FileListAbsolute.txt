@@ -1,0 +1,16 @@
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\bin\Debug\netstandard2.0\PDC03_MOD02.deps.json
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\bin\Debug\netstandard2.0\PDC03_MOD02.dll
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\bin\Debug\netstandard2.0\ref\PDC03_MOD02.dll
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\bin\Debug\netstandard2.0\PDC03_MOD02.pdb
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\PDC03_MOD02.csproj.AssemblyReference.cache
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\PDC03_MOD02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\activity1.xaml.g.cs
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\PDC03_MOD02.AssemblyInfoInputs.cache
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\PDC03_MOD02.AssemblyInfo.cs
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\PDC03_MOD02.csproj.CoreCompileInputs.cache
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\PDC03_MOD02.dll
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\ref\PDC03_MOD02.dll
+C:\Users\User050\source\repos\PDC03_MOD02\PDC03_MOD02\PDC03_MOD02\obj\Debug\netstandard2.0\PDC03_MOD02.pdb
